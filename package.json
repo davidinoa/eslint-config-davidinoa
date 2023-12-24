@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-davidinoa",
+  "version": "1.0.0",
+  "description": "ESLint rules according to David's personal preferences",
+  "main": "index.cjs",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "davidinoa",
+    "typescript",
+    "styleguide"
+  ],
+  "author": "David Inoa",
+  "license": "MIT",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.15.0",
+    "@typescript-eslint/parser": "^6.15.0",
+    "eslint-config-airbnb-typescript": "^17.1.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint": "^8.56.0",
+    "typescript": ">=5.0.0"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
