@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-davidinoa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint rules according to David's personal preferences",
   "main": "index.js",
   "keywords": [
