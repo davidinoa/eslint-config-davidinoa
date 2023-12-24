@@ -2,7 +2,7 @@
   "name": "eslint-config-davidinoa",
   "version": "1.0.0",
   "description": "ESLint rules according to David's personal preferences",
-  "main": "index.cjs",
+  "main": "index.js",
   "keywords": [
     "eslint",
     "eslintconfig",
